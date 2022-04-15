@@ -10,8 +10,7 @@
 
 to create an e-commerce site for my friend
 ## description
- 
-describe the functionality built here, styling choices, ect
+
 ## visuals
 
 
